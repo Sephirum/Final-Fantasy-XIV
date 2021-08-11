@@ -1,0 +1,4 @@
+/mastervolume 100
+/bgm 0
+/ambientsounds 0
+/soundeffects 0

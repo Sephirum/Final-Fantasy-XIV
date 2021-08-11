@@ -1,0 +1,5 @@
+/micon "Songbird" emote
+/mastervolume 10
+/bgm 50
+/ambientsounds 100
+/soundeffects 100

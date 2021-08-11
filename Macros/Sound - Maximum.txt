@@ -1,0 +1,5 @@
+/micon "Step Dance" emote
+/mastervolume 100
+/bgm 100
+/ambientsounds 100
+/soundeffects 100

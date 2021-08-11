@@ -1,0 +1,2 @@
+/micon "Deny" emote
+/mastervolume 0
