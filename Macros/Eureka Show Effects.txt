@@ -1,0 +1,5 @@
+/micon "Yes" emote
+/bfx party all
+/bfx other all
+/soundeffectsparty 100
+/soundeffectsother 100

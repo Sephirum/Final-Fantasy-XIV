@@ -1,0 +1,5 @@
+/micon "No" emote
+/bfx party simple
+/bfx other simple
+/soundeffectsparty 50
+/soundeffectsother 20
